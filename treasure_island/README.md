@@ -10,6 +10,6 @@
 
 ## Treasure Island
 
-![treasure island](treasure_island.gif)
+![treasure island](treasure_island1.gif)
 
 https://replit.com/@ColleenCipriano/treasure-island-start
