@@ -2,6 +2,6 @@
 
 ## Higher Lower Game
 
-![higher lower game](higher_lower_game.gif)
+![higher lower game](higher_lower.gif)
 
 https://replit.com/@ColleenCipriano/higher-lower-final
