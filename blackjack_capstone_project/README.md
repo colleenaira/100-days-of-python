@@ -1,4 +1,4 @@
-# Day 11 = Capstone Project 
+# Day 11 - Capstone Project 
 
 ## Blackjack 
 
